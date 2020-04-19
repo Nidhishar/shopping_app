@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shopping_app
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# shopping_app
+>>>>>>> b39a2076883ad9cf936cdcd181689d824d1ff515
